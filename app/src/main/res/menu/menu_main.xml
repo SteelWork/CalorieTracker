@@ -6,4 +6,12 @@
         android:title="@string/action_settings"
         android:orderInCategory="100"
         app:showAsAction="never" />
+    <item android:id="@+id/action_quit"
+        android:title="@string/quit_calorie_tracker"
+        android:orderInCategory="101"
+        app:showAsAction="never" />
+    <item android:id="@+id/action_graph"
+        android:title="@string/diagram"
+        android:orderInCategory="101"
+        app:showAsAction="always" />
 </menu>
