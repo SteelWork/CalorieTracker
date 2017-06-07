@@ -4,4 +4,8 @@
     <string name="quit_calorie_tracker">Quit Calorie Tracker</string>
     <string name="diagram">Diagram (soon)</string>
     <string name="topText">Today is: not a monday :3</string>
+    <string name="norm">Norm</string>
+    <string name="got">Got</string>
+    <string name="spent">Spent</string>
+    <string name="deficit">Deficit</string>
 </resources>
