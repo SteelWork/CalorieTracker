@@ -8,7 +8,7 @@
     <color name="colorTopText">#880e4f</color>
     <color name="colorDescText">#212121</color>
     <color name="colorCountText">#880e4f</color>
-
+    <color name="button_focused">#fff2f6</color>
 
 
 </resources>
